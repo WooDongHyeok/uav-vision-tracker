@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Generated results and downloaded model weights
+runs/
+outputs/
+*.pt
+*.pth
+*.onnx
+
+# Arduino build artifacts
+build/
+.pio/
+
+# Temporary files
+*~
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
