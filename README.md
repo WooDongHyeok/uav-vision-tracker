@@ -65,3 +65,4 @@ The four work areas are vision, PC communication, Arduino/motor control, and mec
 - End-to-end camera-to-motor demonstration: pending.
 
 Setup and run commands will be added with the first integrated implementation so they match the files actually committed here.
+abcabc
