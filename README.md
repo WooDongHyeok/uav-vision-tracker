@@ -1,6 +1,6 @@
 # UAV Vision Tracker
 
-A four-person project to build a camera-guided, two-axis pan–tilt tracking prototype. The planned system connects camera input and object detection on a PC to serial communication, Arduino motor control, and a physical mechanism.
+A team project to build a camera-guided, two-axis pan–tilt tracking prototype. The planned system connects camera input and object detection on a PC to serial communication, Arduino motor control, and a physical mechanism.
 
 The repository is at the **project setup stage**. The folders below establish ownership and integration boundaries; they do not imply that the hardware or the full pipeline has been implemented.
 
