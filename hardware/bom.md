@@ -11,4 +11,3 @@
 | Motor driver or controller | TBD | TBD | Depends on motor choice |
 | Power supply and wiring | TBD | TBD | Verify total load |
 | Frame, bearings, and fasteners | TBD | TBD | Based on CAD |
-d
